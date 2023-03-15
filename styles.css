@@ -4,7 +4,15 @@ body {
   color: #5C7457;
   background-color: #EFD0CA;
 }
+/* a styles */
 
+a:link {
+  color: #0B132B;
+}
+
+a:visited {
+  color: #772F1A;
+}
 /* Image styles */
 img {
   max-width: 50%;
@@ -12,7 +20,6 @@ img {
 }
 
 /* Div styles */
-
 .image-container {
   background-color: #C1BCAC;
   display: flex;
