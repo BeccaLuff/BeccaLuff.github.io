@@ -1,0 +1,23 @@
+/* CSV */
+efd0ca,c1bcac,772f1a,5c7457,004e89
+
+/* With # */
+#efd0ca, #c1bcac, #772f1a, #5c7457, #004e89
+
+/* Array */
+["efd0ca","c1bcac","772f1a","5c7457","004e89"]
+
+/* Object */
+{"Pale Dogwood":"efd0ca","Dun":"c1bcac","Sienna":"772f1a","Reseda green":"5c7457","Polynesian blue":"004e89"}
+
+/* Extended Array */
+[{"name":"Pale Dogwood","hex":"efd0ca","rgb":[239,208,202],"cmyk":[0,13,15,6],"hsb":[10,15,94],"hsl":[10,54,86],"lab":[86,10,7]},{"name":"Dun","hex":"c1bcac","rgb":[193,188,172],"cmyk":[0,3,11,24],"hsb":[46,11,76],"hsl":[46,14,72],"lab":[76,-1,9]},{"name":"Sienna","hex":"772f1a","rgb":[119,47,26],"cmyk":[0,61,78,53],"hsb":[14,78,47],"hsl":[14,64,28],"lab":[29,30,29]},{"name":"Reseda green","hex":"5c7457","rgb":[92,116,87],"cmyk":[21,0,25,55],"hsb":[110,25,45],"hsl":[110,14,40],"lab":[46,-15,13]},{"name":"Polynesian blue","hex":"004e89","rgb":[0,78,137],"cmyk":[100,43,0,46],"hsb":[206,100,54],"hsl":[206,100,27],"lab":[32,3,-39]}]
+
+/* XML */
+<palette>
+  <color name="Pale Dogwood" hex="efd0ca" r="239" g="208" b="202" />
+  <color name="Dun" hex="c1bcac" r="193" g="188" b="172" />
+  <color name="Sienna" hex="772f1a" r="119" g="47" b="26" />
+  <color name="Reseda green" hex="5c7457" r="92" g="116" b="87" />
+  <color name="Polynesian blue" hex="004e89" r="0" g="78" b="137" />
+</palette>
